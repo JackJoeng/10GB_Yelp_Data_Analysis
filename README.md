@@ -9,11 +9,11 @@ We will analyze a subset of Yelp's business, reviews and user data. This dataset
 
 ## S3 Bucket
 
-![s3](https://github.com/JackJoeng/10GB_Yelp_Data_Analysis/assets/s3bucket.png?raw=true)
+![s3](https://github.com/JackJoeng/10GB_Yelp_Data_Analysis/blob/master/assets/s3bucket.png?raw=true)
 
 ## Cluster and Notebook Configs
 
-![cluster](https://github.com/JackJoeng/10GB_Yelp_Data_Analysis/assets/cluster.png?raw=true)
+![cluster](https://github.com/JackJoeng/10GB_Yelp_Data_Analysis/blob/master/assets/cluster.png?raw=true)
 
-![notebook](https://github.com/JackJoeng/10GB_Yelp_Data_Analysis/assets/notebook.png?raw=true)
+![notebook](https://github.com/JackJoeng/10GB_Yelp_Data_Analysis/blob/master/assets/notebook.png?raw=true)
 
